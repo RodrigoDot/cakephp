@@ -1,0 +1,13 @@
+{
+    "name": "rodrigo/cakephp",
+    "description": "aprendendo cake",
+    "authors": [
+        {
+            "name": "Rodrigo",
+            "email": "rodrigodot@outlook.com"
+        }
+    ],
+    "require": {
+        "cakephp/cakephp": "^3.4"
+    }
+}
